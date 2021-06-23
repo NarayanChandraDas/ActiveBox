@@ -1,0 +1,48 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+@media only screen and (max-width: 767px) {
+   
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+.banner_content h1{
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900px;
+	text-transform: uppercase;
+	margin: 0px 50px;
+}
+
+.banner_content p{
+	margin: 0px 50px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	color:#acadb7;
+
+}
+.navbar-nav{
+	margin-left: 20px;
+	/*margin-right: 230px;*/
+
+}
+.testimonial .p1{
+	color: #fff;
+	font-size: 25px;
+	font-family: 'Cardo', serif;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+}
